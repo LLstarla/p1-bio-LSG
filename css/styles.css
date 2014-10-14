@@ -7,13 +7,18 @@ h1 {
 	border: 10px solid #80A437;
 	margin: 0px 0px 0px 100px;
 }
+
+
 /* Show Grid */
 .showgrid {
-	background: url("img/grid-bg.png") repeat-y;
+	background: "img/grid-bg.png" repeat-y;
 }
 
-body{
-	background: url("img/starring.png") repeat;
+body {
+	background: url(../img/starring.png);
+
 }
+
 
 /* I like the color #8E2F8C and #80A437  */
+
