@@ -9,11 +9,11 @@ h1 {
 }
 /* Show Grid */
 .showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+	background: url("img/grid-bg.png") repeat-y;
 }
 
 body{
-	background: url("../img/bg.png") repeat;
+	background: url("img/starring.png") repeat;
 }
 
 /* I like the color #8E2F8C and #80A437  */
