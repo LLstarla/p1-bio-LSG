@@ -13,7 +13,10 @@ h1 {
 }
 
 body{
-	background: url("../img/starring.png") repeat;
+	background: url("../img/rainbowbg.png") no-repeat;
+	background-size: 35%;
+	background-color: #212227;
+
 }
 
 /* I like the color #8E2F8C and #80A437  */
